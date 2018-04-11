@@ -1,0 +1,21 @@
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.deps.json
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.runtimeconfig.json
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.runtimeconfig.dev.json
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.dll
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.csproj.CoreCompileInputs.cache
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.AssemblyInfoInputs.cache
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.AssemblyInfo.cs
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.pdb
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.dll
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.pdb
+F:\CSharpSolutions\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.csprojResolveAssemblyReference.cache
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.deps.json
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.runtimeconfig.json
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.runtimeconfig.dev.json
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.dll
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\bin\Debug\netcoreapp2.0\NanjingMetro.pdb
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.csproj.CoreCompileInputs.cache
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.AssemblyInfoInputs.cache
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.AssemblyInfo.cs
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.dll
+C:\Users\Drodo Shaw\Desktop\NanjingMetro\NanjingMetro\obj\Debug\netcoreapp2.0\NanjingMetro.pdb
